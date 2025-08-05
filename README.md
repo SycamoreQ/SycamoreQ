@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @SycamoreQ
-- 👀 I’m interested in quantum computing
-- 🌱 I’m currently learning quantum coding
-- 💞️ I’m looking to collaborate on theoretical quantum computing , AI
-- 📫 How to reach me instagram @_.kaushikm._
+I am Kausik Muthukumar , student in Amrita Vishwa Vidyapeetham pursuing my Btech in AI and Data Science. I have an interest in Deep Learning specifically graph-based Deep Learning and Quantum Computing.
+
 
 <!---
 SycamoreQ/SycamoreQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
