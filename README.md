@@ -1,4 +1,4 @@
-I am Kausik Muthukumar , student in Amrita Vishwa Vidyapeetham pursuing my Btech in AI and Data Science. I have an interest in Deep Learning specifically graph-based Deep Learning and Quantum Computing.
+I am Kausik Muthukumar , student in Amrita Vishwa Vidyapeetham pursuing my Btech in AI and Data Science. I have an interest in Deep Learning specifically graph-based Deep Learning , Reinforcement Learning , Distributed Training of systems and so on.
 
 
 <!---
