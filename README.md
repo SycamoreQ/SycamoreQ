@@ -1,8 +1,8 @@
 I am Kausik Muthukumar , student at Amrita Vishwa Vidyapeetham pursuing my Btech in AI and Data Science. My interests lie in everything ML systems or broadly systems , AI Inference hardware , Reinforcement Learning and Graph Learning. 
 
 Currently Reading : 
-The Linux Programming Handbook 
-Ocaml
+- The Linux Programming Handbook 
+- Ocaml
 
 
 <!---
