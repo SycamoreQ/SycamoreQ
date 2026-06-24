@@ -1,9 +1,6 @@
-I am Kausik Muthukumar , student at Amrita Vishwa Vidyapeetham pursuing my Btech in AI and Data Science. My interests lie in everything ML systems or broadly systems , AI Inference hardware , Reinforcement Learning and Graph Learning. 
+Hello! Kausik here, ML systems engineer and more! 
 
-Currently Reading : 
-- Some stuff related to OCaml Compilers 
-- Lots of CUDA
-- Unsafe Rust - Rustonomicon 
+website: https://sycamoreq.github.io
 
 
 <!---
